@@ -1,0 +1,5 @@
+username,password,Expected
+user1,pswd123,error
+user2,pswd123,error
+,,empty
+standard_user,secret_sauce,success
