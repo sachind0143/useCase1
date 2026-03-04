@@ -26,7 +26,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/YOUR_REPO.git'
+                url: 'https://github.com/sachind0143/useCase1.git'
             }
         }
 
